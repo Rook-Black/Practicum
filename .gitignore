@@ -13,3 +13,13 @@ Family_and_loans/data.csv
 Big_cities_music/data.csv
 Apartments_for_rent/real_estate_data.csv
 Test/test.ipynb
+Heart_diseases_prediction/predict.csv
+Heart_diseases_prediction/predict_MLP.csv
+Heart_diseases_prediction/predict_forest.csv
+Heart_diseases_prediction/predict_cat.csv
+Heart_diseases_prediction/predict_1000.csv
+Heart_diseases_prediction/predict_500.csv
+Heart_diseases_prediction/predict_cat_1.csv
+Heart_diseases_prediction/predict_cat_BMI.csv
+Spark/housing.csv
+Heart_diseases_prediction/catboost_info
