@@ -23,3 +23,4 @@ Heart_diseases_prediction/predict_cat_1.csv
 Heart_diseases_prediction/predict_cat_BMI.csv
 Spark/housing.csv
 Heart_diseases_prediction/catboost_info
+Car_market/auto.csv
