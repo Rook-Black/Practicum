@@ -24,3 +24,8 @@ Heart_diseases_prediction/predict_cat_BMI.csv
 Spark/housing.csv
 Heart_diseases_prediction/catboost_info
 Car_market/autos.csv
+Car_market/catboost_info/catboost_training.json
+Car_market/catboost_info/time_left.tsv
+Car_market/catboost_info/learn_error.tsv
+Car_market/catboost_info/tmp/cat_feature_index.93af7348-73a6329d-cf5776a8-9315ca28.tmp
+Car_market/catboost_info/learn/events.out.tfevents
