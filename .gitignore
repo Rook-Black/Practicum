@@ -36,3 +36,11 @@ NLP/toxic_comments.csv
 NLP/tweets_lemm_test.csv
 NLP/tweets_lemm_train.csv
 NLP/tweets_lemm_train_ans
+English_movies/Subtitles_txt/
+English_movies/test/
+English_movies/sub_lemm/
+English_movies/Dic_txt/
+English_movies/catboost_info/
+English_movies/subtitles/
+English_movies/test.str
+English_movies/Subtitles_all
