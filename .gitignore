@@ -44,3 +44,8 @@ English_movies/catboost_info/
 English_movies/subtitles/
 English_movies/test.srt
 English_movies/Subtitles_all
+Final_project_4/CrowdAnnotations.tsv
+Final_project_4/ExpertAnnotations.tsv
+Final_project_4/test_images.csv
+Final_project_4/test_queries.csv
+Final_project_4/train_dataset.csv
