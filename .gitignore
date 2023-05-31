@@ -49,3 +49,8 @@ Final_project_4/ExpertAnnotations.tsv
 Final_project_4/test_images.csv
 Final_project_4/test_queries.csv
 Final_project_4/train_dataset.csv
+Final_project_4/catboost_info
+inter
+inter.txt
+result.txt
+test.ipynb
