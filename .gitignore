@@ -50,6 +50,8 @@ Final_project_4/test_images.csv
 Final_project_4/test_queries.csv
 Final_project_4/train_dataset.csv
 Final_project_4/catboost_info
+Final_project_4/test_images
+Final_project_4/train_images
 inter
 inter.txt
 result.txt
