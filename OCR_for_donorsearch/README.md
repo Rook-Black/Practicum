@@ -19,19 +19,19 @@
 
 ### Загрузка сервиса (Docker)
 
-Найти docker-контейнеры для микросервиса можно [здесь](https://hub.docker.com/r/darveivoldavara/ocr_for_medical_certificates).
+Найти docker-контейнеры для микросервиса можно [здесь](https://hub.docker.com/repository/docker/rookblack/ocr_donor/general).
 
 Скачать:
 
-`docker pull darveivoldavara/ocr_for_medical_certificates:web`
+`docker pull docker push rookblack/ocr_donor:web`
 
-`docker pull darveivoldavara/ocr_for_medical_certificates:redis`
+`docker pull docker push rookblack/ocr_donor:redis`
 
-`docker pull darveivoldavara/ocr_for_medical_certificates:worker`
+`docker pull docker push rookblack/ocr_donor:worker`
 
 Запустить:
 
-[Compose-файл для самостоятельной сборки](https://github.com/Darveivoldavara/ocr_for_medical_certificates/blob/async/Docker/docker-compose.yml).
+[Compose-файл для самостоятельной сборки](https://github.com/Rook-Black/Practicum/blob/main/OCR_for_donorsearch/Docker/docker-compose.yml).
 
 ---
 

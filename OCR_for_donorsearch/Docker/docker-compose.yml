@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   web:
-    image: darveivoldavara/ocr_for_medical_certificates:web
+    image: docker push rookblack/ocr_donor:web
     ports:
       - "8000:8000"
     depends_on:
@@ -11,14 +11,14 @@ services:
       - app-data:/app/img
 
   worker:
-    image: darveivoldavara/ocr_for_medical_certificates:worker
+    image: docker push rookblack/ocr_donor:worker
     depends_on:
       - redis
     volumes:
       - app-data:/app/img
       
   redis:
-    image: darveivoldavara/ocr_for_medical_certificates:redis
+    image: docker push rookblack/ocr_donor:redis
 
 volumes:
   app-data:
